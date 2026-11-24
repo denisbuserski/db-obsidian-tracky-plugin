@@ -1,0 +1,10 @@
+{
+  "id": "db-obsidian-tracky-plugin",
+  "name": "Tracky",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Jira-like task board (To Do / In Progress / Done) driven by note properties.",
+  "author": "db",
+  "authorUrl": "https://github.com/DenisBuserski",
+  "isDesktopOnly": false
+}
